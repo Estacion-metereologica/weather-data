@@ -1,6 +1,0 @@
-Date,Time,Temp Units,Bar Units,Wind Units,Rain Units,Temp Out,Hi Temp,Low Temp,Rain,Rain Rate,BAR,Solar Rad.,In Temp,In Hum,Out Hum,Wind Speed,Hi Speed,Hi Dir,Wind Dir,UV Index,ET,Hi Solar Rad.,Hi UV
-20:04:2026,00:15,C,mm,km/h,mm,15,15,15,0.00,0.00,770.5,---,24,38,73,0.0,6.4,WNW,NNW,---,---,---,---
-20:04:2026,00:30,C,mm,km/h,mm,15,15,15,0.00,0.00,770.6,---,24,39,74,1.6,6.4,WSW,NW,---,---,---,---
-20:04:2026,00:45,C,mm,km/h,mm,15,15,15,0.00,0.00,770.6,---,24,39,75,0.0,8.0,N,NW,---,---,---,---
-20:04:2026,01:00,C,mm,km/h,mm,15,15,15,0.00,0.00,770.6,---,24,39,75,0.0,9.7,NNW,N,---,---,---,---
-20:04:2026,01:15,C,mm,km/h,mm,15,15,15,0.00,0.00,770.6,---,24,39,75,1.6,11.3,NNW,NNW,---,---,---,---
